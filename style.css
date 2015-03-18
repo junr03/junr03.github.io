@@ -33,18 +33,15 @@ h1 {
     margin-right: auto;
 }
 
-.logo {
-    margin-left: 5px;
-    height: 40px;
+.connect{
+    text-align: center;
 }
 
-.wrapper {
-    float:left;
-    width:33%;
-}
-.container {
-    margin: 10px;
-    padding: 20px;
+.logo{
+    height: 40px;
+    display: inline-block;
+    margin: 5px 3px;
+    padding: 5px;
 }
 
 p {
